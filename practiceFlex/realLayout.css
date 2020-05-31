@@ -1,0 +1,29 @@
+/* .form-row{
+    padding: 10px 0;
+    display: flex;
+}
+.form-row label{
+    padding-right: 10px;
+}
+.form-row input{
+    flex: 1;
+} */
+.column-layout{
+    display: flex;
+
+}
+.main-column{
+    flex: 1;
+    order: 2;
+
+}
+.sidebar-one {
+    flex: 1;
+    order: 1;
+  }
+  
+  .sidebar-two {
+    flex: 1;
+    order: 3;
+
+  }

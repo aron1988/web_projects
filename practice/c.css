@@ -1,0 +1,19 @@
+h1, h2 {
+    font-family: Lato;
+  }
+  .col-3{
+    width: 25%;
+    padding: 2.5%;
+    display: inline-block;
+  }
+  
+  input{
+    max-width: 100%;
+  }
+  .operators button{
+    width: 30%;
+    margin: 2.5%;
+    background: aliceblue;
+    border:1px solid blueviolet
+  
+  }

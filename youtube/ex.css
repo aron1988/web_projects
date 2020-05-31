@@ -1,0 +1,14 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  .error {
+    color: red;
+    border: 12px solid rgb(188, 176, 230);
+
+  }
+  .main {
+    text-align: center;
+  }
